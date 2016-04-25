@@ -62,7 +62,7 @@
     - hctteams.freeze
   Mod:
     options:
-      prefix: '&8&l[&9&lOwner&8&l]&9'
+      prefix: '&8&l[&a&lMod&8&l]&a'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
@@ -113,7 +113,7 @@
     - staff.warn
   Trial-Mod:
     options:
-      prefix: '&8&l[&a&lMod&8&l]&a'
+      prefix: '&8&l[&b&lTrial-Mod&8&l]&b'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
