@@ -51,6 +51,15 @@
     - auctionhouse.limit.15
     - auctionhouse.sell
     - trade.trade
+    - pc.use
+    - pc.staffchat
+    - pc.enable
+    - pc.disable
+    - pc.bypass
+    - pc.say
+    - staff.mode
+    - staff.warn
+    - hctteams.freeze
   Mod:
     options:
       prefix: '&8&l[&9&lOwner&8&l]&9'
@@ -96,6 +105,12 @@
     - auctionhouse.limit.15
     - auctionhouse.sell
     - trade.trade
+    - pc.use
+    - pc.staffchat
+    - pc.enable
+    - pc.disable
+    - pc.bypass
+    - staff.warn
   Trial-Mod:
     options:
       prefix: '&8&l[&a&lMod&8&l]&a'
@@ -141,5 +156,7 @@
     - auctionhouse.limit.15
     - auctionhouse.sell
     - trade.trade
-    - 
-
+    - pc.use
+    - pc.staffchat
+    - pc.bypass
+    - staff.warn
