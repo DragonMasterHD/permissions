@@ -22,6 +22,7 @@ groups:
     - essentials.delhome
     - essentials.warp
     - essentials.warp.list
+    - essentials.exp
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
@@ -56,6 +57,9 @@ groups:
     - essentials.sethome.multiple.Specialist
     - essentials.warp
     - essentials.warp.list
+    - essentials.sell
+    - essentials.exp
+    - essentials.feed
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
@@ -91,6 +95,9 @@ groups:
     - essentials.sethome.multiple.Sergeant
     - essentials.warp
     - essentials.warp.list
+    - essentials.sell
+    - essentials.exp
+    - essentials.feed
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
@@ -128,6 +135,9 @@ groups:
     - essentials.warp
     - essentials.warp.list
     - essentials.lightning
+    - essentials.sell
+    - essentials.exp
+    - essentials.feed
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
@@ -168,6 +178,9 @@ groups:
     - essentials.lightning
     - essentials.hat
     - essentials.nick
+    - essentials.sell
+    - essentials.exp
+    - essentials.feed
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
@@ -209,6 +222,9 @@ groups:
     - essentials.hat
     - essentails.nick
     - essentials.fly
+    - essentials.sell
+    - essentials.exp
+    - essentials.feed
     - essentials.signs.use.Buy
     - essentials.signs.use.Sell
     - essentials.signs.use.Kit
