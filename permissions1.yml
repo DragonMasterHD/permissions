@@ -32,7 +32,7 @@ groups:
     - auctionhouse.sell
   Specialist:
     options:
-      prefix: '&f&l[&3&lSpecialist&f&l]&7'
+      prefix: '&f&l[&3&lSpecialist&f&l]&3'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
@@ -66,7 +66,7 @@ groups:
     - auctionhouse.sell
   Sergeant:
     options:
-      prefix: '&f&l[&b&lSergeant&f&l]&7'
+      prefix: '&f&l[&b&lSergeant&f&l]&b'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
@@ -101,7 +101,7 @@ groups:
     - auctionhouse.sell
   Lieutenant:
     options:
-      prefix: '&f&l[&9&lLieutenant&f&l]&7'
+      prefix: '&f&l[&9&lLieutenant&f&l]&9'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
@@ -138,7 +138,7 @@ groups:
     - auctionhouse.sell
   Captian:
     options:
-      prefix: '&f&l[&b&lCaptian&f&l]&7'
+      prefix: '&f&l[&3&lCaptian&f&l]&3'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
@@ -178,7 +178,7 @@ groups:
     - auctionhouse.sell
   General:
     options:
-      prefix: '&f&l[&e&lGeneral&f&l]&7'
+      prefix: '&f&l[&e&lGeneral&f&l]&e'
     permissions:
     - essentials.kit
     - essentials.kits.Starter
