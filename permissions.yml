@@ -293,7 +293,15 @@ groups:
     - pc.bypass
     - pc.say
     - staff.mode
-    - staff.warn
+    - maxbans.ban
+    - maxbans.tempban
+    - maxbans.unban
+    - maxbans.warn
+    - maxbans.kick
+    - maxbans.mute
+    - maxbans.tempmute
+    - maxbans.forcespawn
+    - maxbans.checkban
     - hctteams.freeze
   Mod:
     options:
@@ -345,7 +353,14 @@ groups:
     - pc.enable
     - pc.disable
     - pc.bypass
-    - staff.warn
+    - maxbans.ban
+    - maxbans.tempban
+    - maxbans.unban
+    - maxbans.warn
+    - maxbans.kick
+    - maxbans.mute
+    - maxbans.tempmute
+    - maxbans.forcespawn  
   Trial-Mod:
     options:
       prefix: '&8&l[&b&lTrial-Mod&8&l]&b'
@@ -394,4 +409,8 @@ groups:
     - pc.use
     - pc.staffchat
     - pc.bypass
-    - staff.warn
+    - maxbans.warn
+    - maxbans.kick
+    - maxbans.mute
+    - maxbans.tempmute
+    - maxbans.forcespawn
